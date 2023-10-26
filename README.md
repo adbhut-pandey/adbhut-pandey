@@ -1,5 +1,5 @@
-### Hi there 👋
-
+i am a web devloper
+auther-adbhut pandey
 <!--
 **adbhut-pandey/adbhut-pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
